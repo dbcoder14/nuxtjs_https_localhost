@@ -1,5 +1,11 @@
 # https_nuxt_local_app
 
+## Description
+
+Purpose this repo is to display how we can apply HTTPS for the local/dev nuxt environment. In this regards, you can find details post at following link, that will guide you step by step.
+
+https://danyal.dk/blog/2021/12/23/how-to-run-nuxtjs-development-env-with-https-in-localhost/
+
 ## Build Setup
 
 ```bash
